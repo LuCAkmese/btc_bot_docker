@@ -1,0 +1,9 @@
+dash
+plotly
+pandas
+requests
+numpy==1.24.4
+python-dotenv
+setuptools
+wheel
+pandas_ta
